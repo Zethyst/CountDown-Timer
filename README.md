@@ -2,7 +2,7 @@
 
 <p>A sleek and intuitive countdown timer application built with React, designed to keep you on track and manage your time effectively. "</p>
 
-[Visit Now]("") 🚀
+[Visit Now]("https://zethyst.github.io/CountDown-Timer/") 🚀
 ### `npm start`
 
 Runs the app in the development mode.\
